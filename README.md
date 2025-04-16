@@ -2,6 +2,8 @@
 
 Repo for task managment of my stuff // turn this repo into a website that holds all my todo/projects
 
+
+0. Asus stock rechecker
 1. IOS keyboard copy
 2. Password sender via qr code
 3. shopify website
